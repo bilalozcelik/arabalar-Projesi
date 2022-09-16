@@ -1,0 +1,48 @@
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\arabalar projesi.exe.config
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\arabalar projesi.exe
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\arabalar projesi.pdb
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\MySql.Data.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\Google.Protobuf.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\Zstandard.Net.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\System.Memory.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\System.Buffers.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\bin\Debug\MySql.Data.xml
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.csproj.AssemblyReference.cache
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\obj\Debug\arabalar_projesi.Form1.resources
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\obj\Debug\arabalar_projesi.Properties.Resources.resources
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.csproj.GenerateResource.cache
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.csproj.CoreCompileInputs.cache
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.csproj.CopyComplete
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.exe
+C:\Users\Lab2_Ogretmen\source\repos\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.pdb
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\arabalar projesi.exe.config
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\arabalar projesi.exe
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\arabalar projesi.pdb
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\MySql.Data.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\Google.Protobuf.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\Zstandard.Net.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\System.Memory.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\System.Buffers.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\bin\Debug\MySql.Data.xml
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.csproj.AssemblyReference.cache
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\obj\Debug\arabalar_projesi.Form1.resources
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\obj\Debug\arabalar_projesi.Properties.Resources.resources
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.csproj.GenerateResource.cache
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.csproj.CoreCompileInputs.cache
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.csproj.CopyComplete
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.exe
+C:\Users\Lab2_Ogretmen\Desktop\arabalarprojesi-main\arabalar projesi\arabalar projesi\arabalar projesi\obj\Debug\arabalar projesi.pdb
